@@ -1,0 +1,197 @@
+[
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "series": [
+      {
+        "id": "squid-game",
+        "name": "Squid Game",
+        "seasons": [
+          { "id": "season-1", "name": "Season 1" }
+        ]
+      },
+      {
+        "id": "american-murder-gabby-petito",
+        "name": "American Murder : Gabby Petito",
+        "seasons": [
+          { "id": "season-8", "name": "Season 8" }
+        ]
+      },
+      {
+        "id": "cassandra",
+        "name": "Cassandra (English)",
+        "seasons": [
+          { "id": "season-8", "name": "Season 8" }
+        ]
+      },
+      {
+        "id": "black-warrant",
+        "name": "Black Warrant",
+        "seasons": [
+          { "id": "season-8", "name": "Season 8" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prime",
+    "name": "Prime Video",
+    "series": [
+      {
+        "id": "dupahiya",
+        "name": "Dupahiya",
+        "seasons": [
+          { "id": "season-8", "name": "Season 8" }
+        ]
+      },
+      {
+        "id": "the-wheel-of-time",
+        "name": "The Wheel Of Time",
+        "seasons": [
+          { "id": "season-8", "name": "Season 8" }
+        ]
+      },
+      {
+        "id": "reacher",
+        "name": "Reacher",
+        "seasons": [
+          { "id": "season-3", "name": "Season 3" }
+        ]
+      },
+      {
+        "id": "house-of-david",
+        "name": "House of David",
+        "seasons": [
+          { "id": "season-8", "name": "Season 8" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "zee5",
+    "name": "Zee5",
+    "series": [
+      {
+        "id": "khoj-parchaiyon-ke-uss-paar",
+        "name": "Khoj - Parchaiyon Ke Uss Paar",
+        "seasons": [
+          { "id": "season-8", "name": "Season 8" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sony-live",
+    "name": "Sony Live",
+    "series": [
+      {
+        "id": "the-waking-of-a-nation",
+        "name": "The Waking Of A Nation",
+        "seasons": [
+          { "id": "season-8", "name": "Season 8" }
+        ]
+      },
+      {
+        "id": "shark-tank-india",
+        "name": "Shark Tank India",
+        "seasons": [
+          { "id": "season-1", "name": "Season 1" }
+        ]
+      },
+      {
+        "id": "cubicles",
+        "name": "Cubicles",
+        "seasons": [
+          { "id": "season-2", "name": "Season 2" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sun-nxt",
+    "name": "Sun NXT",
+    "series": [
+      {
+        "id": "nandini-ka-pratishodh",
+        "name": "Nandini Ka Pratishodh",
+        "seasons": [
+          { "id": "latest-5", "name": "Latest 5 Episodes" }
+        ]
+      },
+      {
+        "id": "ishq-jabariya",
+        "name": "Ishq Jabariya",
+        "seasons": [
+          { "id": "latest-10", "name": "Latest 10 Episodes" }
+        ]
+      },
+      {
+        "id": "shambavi",
+        "name": "Shambavi",
+        "seasons": [
+          { "id": "latest-5", "name": "Latest 5 Episodes" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hoichoi",
+    "name": "Hoichoi",
+    "series": [
+      {
+        "id": "eken-babu",
+        "name": "Eken Babu",
+        "seasons": [
+          { "id": "season-8", "name": "Season 8" }
+        ]
+      },
+      {
+        "id": "nikhoj",
+        "name": "Nikhoj",
+        "seasons": [
+          { "id": "season-2", "name": "Season 2" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jio-hotstar",
+    "name": "Jio HotStar",
+    "series": [
+      {
+        "id": "the-pitt",
+        "name": "The Pitt",
+        "seasons": [
+          { "id": "season-8", "name": "Season 8" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mx-player",
+    "name": "Mx Player",
+    "series": [
+      {
+        "id": "aashram",
+        "name": "Aashram",
+        "seasons": [
+          { "id": "season-3", "name": "Season 3" }
+        ]
+      },
+      {
+        "id": "school-friends",
+        "name": "School Friends",
+        "seasons": [
+          { "id": "season-8", "name": "Season 8" }
+        ]
+      },
+      {
+        "id": "chidiya-udd",
+        "name": "Chidiya Udd",
+        "seasons": [
+          { "id": "season-8", "name": "Season 8" }
+        ]
+      }
+    ]
+  }
+]

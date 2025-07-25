@@ -1,0 +1,27 @@
+[
+  {
+    "id": "tb-s1-ep1",
+    "channel": "The Boys - Season 1",
+    "date": "2019-07-26",
+    "start": "00:00:00",
+    "end": "01:05:00",
+    "type": "episode",
+    "program": "Episode 1: The Name of the Game",
+    "image": "/placeholder.svg?height=200&width=300",
+    "description": "Hughie Campbell's life is turned upside down when a superhero accidentally kills his girlfriend."
+  },
+  {
+    "id": "tb-s1-ad1",
+    "channel": "The Boys - Season 1",
+    "date": "2019-07-26",
+    "start": "01:05:00",
+    "end": "01:06:00",
+    "type": "ad",
+    "program": "Ad: Energy Drink",
+    "image": "/placeholder.svg?height=200&width=300",
+    "brand": "PowerUp",
+    "sector": "Beverages",
+    "category": "Energy Drinks",
+    "description": "Boost your day with PowerUp!"
+  }
+]

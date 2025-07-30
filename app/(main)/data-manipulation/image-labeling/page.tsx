@@ -1,7 +1,7 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, Suspense } from "react";
 import FiltersCard from "@/components/labeling/FiltersCard";
 import EventsTable from "@/components/labeling/EventsTable";
 import LabelDialog from "@/components/labeling/LabelDialog";
@@ -15,7 +15,7 @@ import {
 import { getUserData } from "@/services/auth.service";
 import { useRouter, useSearchParams } from "next/navigation";
 
-export default function ImageLabelingPage() {
+function ImageLabelingContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
 
@@ -165,5 +165,13 @@ export default function ImageLabelingPage() {
         }}
       />
     </div>
+  );
+}
+
+export default function ImageLabelingPage() {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <ImageLabelingContent />
+    </Suspense>
   );
 }
